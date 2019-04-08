@@ -1,4 +1,4 @@
-  "4": {
+{  "4": {
     "inspired by": [
       "Why the fuck do you care?",
       "Why wouldn't I care?"
@@ -218,7 +218,7 @@
         "trg": {
           "correct": [
             "Už mám dost těch špatných kandidátů v těchto volbách.",
-            "Tak proč nekandiduješ ty?
+            "Tak proč nekandiduješ ty?"
           ],
           "incorrect": [
             "Už mám dost těch špatných kandidátů v těchto volbách.",
@@ -238,7 +238,7 @@
           ],
           "incorrect": [
             "Zase nestihnu autobus.",
-            "Tak proč nekandiduješ ty?
+            "Tak proč nekandiduješ ty?"
           ]
         }
       }
