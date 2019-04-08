@@ -1,4 +1,4 @@
-{  "4": {
+[  "4": {
     "inspired by": [
       "Why the fuck do you care?",
       "Why wouldn't I care?"
@@ -541,7 +541,7 @@
     "examples": [
       {
         "src": [
-          "The prisoners were captured on the beach."
+          "The prisoners were captured on the beach.",
           "And branded."
         ],
         "trg": {
