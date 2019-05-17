@@ -1508,11 +1508,11 @@
         ],
         "trg": {
           "correct": [
-            "Měla by být opatrnější s tím ochutnáváním – vždyť víš, že je alergická.",
+            "Měla by být opatrnější s tím ochutnáváním – vždyť víš, že je alergická.",
             "Já vím. Ten poslední byl opravdový ořech."
           ],
           "incorrect": [
-            " Měla by být opatrnější s tím ochutnáváním – vždyť víš, že je alergická.",
+            " Měla by být opatrnější s tím ochutnáváním – vždyť víš, že je alergická.",
             "Já vím. Ten poslední byl vážně magor."
           ]
         }
@@ -1714,11 +1714,11 @@
         ],
         "trg": {
           "correct": [
-            "Skončili s hlavním chodem a chtěli by dezert. ",
+            "Skončili s hlavním chodem a chtěli by dezert. ",
             "Které portské chce?"
           ],
           "incorrect": [
-            "Skončili s hlavním chodem a chtěli by dezert. ",
+            "Skončili s hlavním chodem a chtěli by dezert. ",
             "Do kterého přístavu chce?"
           ]
         }
@@ -1780,11 +1780,11 @@
         ],
         "trg": {
           "correct": [
-            "Předseda se k nám připojí za pět minut.",
+            "Předseda se k nám připojí za pět minut.",
             "Proč je tady předseda?"
           ],
           "incorrect": [
-            "Předseda se k nám připojí za pět minut.",
+            "Předseda se k nám připojí za pět minut.",
             "Proč je tady židle?"
           ]
         }
@@ -2069,11 +2069,11 @@
         ],
         "trg": {
           "correct": [
-            "Nastoupí s námi Rebeca do letadla?",
+            "Nastoupí s námi Rebeca do letadla?",
             "Čeká na nás v kabině."
           ],
           "incorrect": [
-            " Nastoupí s námi Rebeca do letadla?",
+            " Nastoupí s námi Rebeca do letadla?",
             "Čeká na nás v chatě."
           ]
         }
@@ -2085,11 +2085,11 @@
         ],
         "trg": {
           "correct": [
-            "Půjde s námi Rebeka na výlet ?",
+            "Půjde s námi Rebeka na výlet ?",
             " Čeká na nás v chatě."
           ],
           "incorrect": [
-            " Půjde s námi Rebeka na výlet?",
+            " Půjde s námi Rebeka na výlet?",
             " Čeká na nás v kabině."
           ]
         }
@@ -2115,7 +2115,7 @@
           ],
           "incorrect": [
             " Ale ne, to není žádné tajemství – já už to vím.",
-            " Pustil někdo kočku z tašky ven?"
+            " Pustil někdo kočku z tašky ven?"
           ]
         }
       },
@@ -2127,7 +2127,7 @@
         "trg": {
           "correct": [
             "Co je to za mňoukání?",
-            " Pustil někdo kočku z tašky ven?"
+            " Pustil někdo kočku z tašky ven?"
           ],
           "incorrect": [
             "Co je to za mňoukání ?",
@@ -2234,11 +2234,11 @@
         ],
         "trg": {
           "correct": [
-            "Mohu vám nabídnout něco k pití, pane?",
+            "Mohu vám nabídnout něco k pití, pane?",
             "Máte kolu ?"
           ],
           "incorrect": [
-            " Mohu vám nabídnout něco k pití, pane?",
+            " Mohu vám nabídnout něco k pití, pane?",
             "Máte kokain ?"
           ]
         }
@@ -2316,11 +2316,11 @@
         ],
         "trg": {
           "correct": [
-            "Pizza je v troubě, ale ještě trochu těsta zbylo.",
+            "Pizza je v troubě, ale ještě trochu těsta zbylo.",
             "Nikdy jsem tolik těsta neviděla!"
           ],
           "incorrect": [
-            " Pizza je v troubě, ale ještě trochu těsta zbylo.",
+            " Pizza je v troubě, ale ještě trochu těsta zbylo.",
             "Nikdy jsem tolik peněz neviděla!"
           ]
         }
@@ -2456,11 +2456,11 @@
         ],
         "trg": {
           "correct": [
-            "Našli ji na terase, s několika odřeninami, jinak v pořádku.",
+            "Našli ji na terase, s několika odřeninami, jinak v pořádku.",
             "Markýza musela zpomalit její pád."
           ],
           "incorrect": [
-            " Našli ji na terase, s několika odřeninami, jinak v pořádku.",
+            " Našli ji na terase, s několika odřeninami, jinak v pořádku.",
             "Koruna musela zpomalit její pád."
           ]
         }
@@ -2645,11 +2645,11 @@
         ],
         "trg": {
           "correct": [
-            "Už jsi viděla toho novýho kluka z prvního patra?",
+            "Už jsi viděla toho novýho kluka z prvního patra?",
             "To je fešák!"
           ],
           "incorrect": [
-            " Už jsi viděla toho novýho kluka z prvního patra?",
+            " Už jsi viděla toho novýho kluka z prvního patra?",
             "To je jídlo!"
           ]
         }
@@ -2784,11 +2784,11 @@
         ],
         "trg": {
           "correct": [
-            "Kdo se o ni ale postará v tak zuboženém stavu?",
+            "Kdo se o ni ale postará v tak zuboženém stavu?",
             " Jestli se jí někdo může ujmout, jsi to ty."
           ],
           "incorrect": [
-            " Kdo se o ni ale postará v tak zuboženém stavu?",
+            " Kdo se o ni ale postará v tak zuboženém stavu?",
             "Jestli se jí někdo může postavit, jsi to ty."
           ]
         }
@@ -2920,5 +2920,4 @@
     ]
   }
 }
-
 
