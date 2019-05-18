@@ -510,7 +510,7 @@
           ],
           "incorrect": [
             "Cena je 30 dolarů.",
-            "25 triček.."
+            "25 triček."
           ]
         }
       },
@@ -551,7 +551,7 @@
           ],
           "incorrect": [
             "Vězni byli chyceni na pláži.",
-            "A značkové. "
+            "A značkové."
           ]
         }
       },
@@ -732,7 +732,7 @@
           ],
           "incorrect": [
             "Chcete sádrový odlitek jeho nohy ?",
-            "Nejdřív bychom měli naplnit botu."
+            "Nejdřív bychom měli naplnit kufr."
           ]
         }
       }
@@ -757,7 +757,7 @@
           ],
           "incorrect": [
             "Tady lije jako z pánve.", 
-            "Nechtěl jsi říct \" kočky a psy \"?"
+            "Nechtěl jsi říct \"kočky a psy\"?"
           ]
         }
       },
@@ -1128,7 +1128,7 @@
           ],
           "incorrect": [
             "Nebylo to moc těžké ?",
-            "Ne, byl to kus dortu."
+            "Ne, byl to kousek dortu."
           ]
         }
       },
@@ -1185,7 +1185,7 @@
           ],
           "incorrect": [
             "Takové rozhodnutí nemůžeš udělat.",
-            "Ne, to ej moje pravá!"
+            "Ne, to je moje pravá!"
           ]
         }
       }
@@ -1207,11 +1207,11 @@
         "trg": {
           "correct": [
             "Nejsem si tak jistý, že je ta střecha stabilní.",
-            "Zdá se, že se ten trám hýbe.."
+            "Zdá se, že se ten trám hýbe."
           ],
           "incorrect": [
             " Nejsem si tak jistý, že je ta střecha stabilní.",
-            "Zdá se, že se ten paprsek hýbe.."
+            "Zdá se, že se ten paprsek hýbe."
           ]
         }
       },
@@ -1223,7 +1223,7 @@
         "trg": {
           "correct": [
             "Vesmírná loď se ještě vznáší..",
-            "Zdá se, že se ten ten parsek hýbe.."
+            "Zdá se, že se ten paprsek hýbe."
           ],
           "incorrect": [
             "Vesmírná loď se ještě vznáší.",
@@ -1346,11 +1346,11 @@
         "trg": {
           "correct": [
             "Už složil ten stůl ?",
-            "Už končí."
+            "Je u poslední nohy."
           ],
           "incorrect": [
             "Už složil ten stůl ?",
-            "Už to má za pár."
+            "Už končí."
           ]
         }
       }
@@ -1411,7 +1411,7 @@
         "trg": {
           "correct": [
             "Kde že je to kuře?",
-            "Támhle vedle toho kotce."
+            "Támhle u toho kotce."
           ],
           "incorrect": [
             "Kde že je to kuře?",
@@ -1869,7 +1869,7 @@
           ],
           "incorrect": [
             "Už bych měl asi jít.",
-            "Ale vždyť jsme u tebe doma."
+            "Ale tvoje místo je tady."
           ]
         }
       },
@@ -1910,7 +1910,7 @@
           ],
           "incorrect": [
             "Pokud nebudeš víc trénovat, tak ten turnaj nevyhrajeme. ",
-            "Kašlu na turnaj."
+            "Kašlu na šálek."
           ]
         }
       },
@@ -2073,7 +2073,7 @@
             "Čeká na nás v kabině."
           ],
           "incorrect": [
-            " Nastoupí s námi Rebeca do letadla?",
+            "Nastoupí s námi Rebeca do letadla?",
             "Čeká na nás v chatě."
           ]
         }
@@ -2086,11 +2086,11 @@
         "trg": {
           "correct": [
             "Půjde s námi Rebeka na výlet ?",
-            " Čeká na nás v chatě."
+            "Čeká na nás v chatě."
           ],
           "incorrect": [
-            " Půjde s námi Rebeka na výlet?",
-            " Čeká na nás v kabině."
+            "Půjde s námi Rebeka na výlet?",
+            "Čeká na nás v kabině."
           ]
         }
       }
@@ -2114,8 +2114,8 @@
             "Někdo to vyzvonil?"
           ],
           "incorrect": [
-            " Ale ne, to není žádné tajemství – já už to vím.",
-            " Pustil někdo kočku z tašky ven?"
+            "Ale ne, to není žádné tajemství – já už to vím.",
+            "Pustil někdo kočku z tašky ven?"
           ]
         }
       },
@@ -2127,11 +2127,11 @@
         "trg": {
           "correct": [
             "Co je to za mňoukání?",
-            " Pustil někdo kočku z tašky ven?"
+            "Pustil někdo kočku z tašky ven?"
           ],
           "incorrect": [
-            "Co je to za mňoukání ?",
-            "Někdo to vyzvonil ?"
+            "Co je to za mňoukání?",
+            "Někdo to vyzvonil?"
           ]
         }
       }
@@ -2198,8 +2198,8 @@
             "Já vím – ještě že včera pršelo."
           ],
           "incorrect": [
-            " Nebohé vinice to sucho moc dobře nezvládají.",
-            "Já vím – ještě že se včera sprchovalo."
+            "Nebohé vinice to sucho moc dobře nezvládají.",
+            "Já vím – ještě že včera byly sprchy."
           ]
         }
       },
@@ -2211,11 +2211,11 @@
         "trg": {
           "correct": [
             "Budeme na konci víkendu smrdět.",
-            "Já vím, ještě že se včera sprchoval."
+            "Já vím – ještě že včera byly sprchy."
           ],
           "incorrect": [
-            " Budeme na konci víkendu smrdět.",
-            "Já vím, ještě že včera pršelo."
+            "Budeme na konci víkendu smrdět.",
+            "Já vím – ještě že včera pršelo."
           ]
         }
       }
@@ -2235,11 +2235,11 @@
         "trg": {
           "correct": [
             "Mohu vám nabídnout něco k pití, pane?",
-            "Máte kolu ?"
+            "Máte kolu?"
           ],
           "incorrect": [
-            " Mohu vám nabídnout něco k pití, pane?",
-            "Máte kokain ?"
+            "Mohu vám nabídnout něco k pití, pane?",
+            "Máte kokain?"
           ]
         }
       },
@@ -2251,11 +2251,11 @@
         "trg": {
           "correct": [
             "Chceš se dnes večer zdrogovat?",
-            "Máš kokain ?"
+            "Máte kokain?"
           ],
           "incorrect": [
-            " Chceš se dnes večer zdrogovat?",
-            "Máš kolu ?"
+            "Chceš se dnes večer zdrogovat?",
+            "Máte kolu?"
           ]
         }
       }
@@ -2295,8 +2295,8 @@
             "Chybí mi mýdlo."
           ],
           "incorrect": [
-            " Jak zvládáš každodenní život, hygienu a tak?",
-            " Nemůžu najít mýdlo."
+            "Jak zvládáš každodenní život, hygienu a tak?",
+            "Nemůžu najít mýdlo."
           ]
         }
       }
@@ -2320,7 +2320,7 @@
             "Nikdy jsem tolik těsta neviděla!"
           ],
           "incorrect": [
-            " Pizza je v troubě, ale ještě trochu těsta zbylo.",
+            "Pizza je v troubě, ale ještě trochu těsta zbylo.",
             "Nikdy jsem tolik peněz neviděla!"
           ]
         }
@@ -2333,11 +2333,11 @@
         "trg": {
           "correct": [
             "Tady máš – vydělala sis to.",
-            " Nikdy jsem tolik peněz neviděla!"
+            "Nikdy jsem tolik peněz neviděla!"
           ],
           "incorrect": [
-            " Tady máš – vydělala sis to.",
-            " Nikdy jsem tolik těsta neviděla!"
+            "Tady máš – vydělala sis to.",
+            "Nikdy jsem tolik těsta neviděla!"
           ]
         }
       }
@@ -2402,7 +2402,7 @@
             "Nedokázala jsem se přinutit ho oškubat."
           ],
           "incorrect": [
-            " Budeme dnes večer mít kuře?",
+            "Budeme dnes večer mít kuře?",
             "Nedokázala jsem se přinutit ho vytrhnout."
           ]
         }
@@ -2419,7 +2419,7 @@
           ],
           "incorrect": [
             " Víš, že tam ten chlup stále je?",
-            "Nedokázala jsme se přinutit ho oškubat."
+            "Nedokázala jsem se přinutit ho oškubat."
           ]
         }
       }
@@ -2441,11 +2441,11 @@
         "trg": {
           "correct": [
             "Našli ji mezi polámanými větvemi, téměř nezraněnou.",
-            "Koruna musel zabrzdit její pád."
+            "Koruna musela zbrzdit její pád."
           ],
           "incorrect": [
-            " Našli ji mezi polámanými větvemi, téměř nezraněnou.",
-            "Markýza musel zbrzdit její pád."
+            "Našli ji mezi polámanými větvemi, téměř nezraněnou.",
+            "Markýza musela zbrzdit její pád."
           ]
         }
       },
@@ -2457,11 +2457,11 @@
         "trg": {
           "correct": [
             "Našli ji na terase, s několika odřeninami, jinak v pořádku.",
-            "Markýza musela zpomalit její pád."
+            "Markýza musela zbrzdit její pád."
           ],
           "incorrect": [
-            " Našli ji na terase, s několika odřeninami, jinak v pořádku.",
-            "Koruna musela zpomalit její pád."
+            "Našli ji na terase, s několika odřeninami, jinak v pořádku.",
+            "Koruna musela zbrzdit její pád."
           ]
         }
       }
@@ -2498,11 +2498,11 @@
         "trg": {
           "correct": [
             "Žádné další otázky, Ctihodnosti.",
-            " Už můžete odstoupit."
+            "Už můžete odstoupit."
           ],
           "incorrect": [
             " Žádné další otázky, Ctihodnosti.",
-            " Už můžte sestoupit."
+            "Už můžete sestoupit."
           ]
         }
       }
@@ -2523,7 +2523,7 @@
         "trg": {
           "correct": [
             "Co bys řekl na 50 liber?",
-            " Je to trochu dražší, než jsem si myslel."
+            "Je to trochu dražší, než jsem si myslel."
           ],
           "incorrect": [
             "Co bys řekl na 50 liber?",
@@ -2584,7 +2584,7 @@
           ],
           "incorrect": [
             "A co můj pes ?",
-            "zešílel."
+            "Zešílel."
           ]
         }
       }
@@ -2605,10 +2605,10 @@
         "trg": {
           "correct": [
             "Jenom tam potřebujeme udělat díru.",
-            "Podej mu tu řezačku."
+            "Podej mi tu řezačku."
           ],
           "incorrect": [
-            " Jenom tam potřebujeme udělat díru.",
+            "Jenom tam potřebujeme udělat díru.",
             "Podej mi to vykrajovátko."
           ]
         }
@@ -2690,7 +2690,7 @@
             "Podle mne je to přiléhavé dost."
           ],
           "incorrect": [
-            " Snesla bych to trochu přiléhavější kolem boků.",
+            "Snesla bych to trochu přiléhavější kolem boků.",
             "Podle mne je to napjaté dost."
           ]
         }
@@ -2703,11 +2703,11 @@
         "trg": {
           "correct": [
             "Napni to lano trochu víc.",
-            " Podle mne je to napjaté dost."
+            "Podle mne je to napjaté dost."
           ],
           "incorrect": [
-            " Napni to lano trochu víc.",
-            " Podle mne je to přiléhavé dost."
+            "Napni to lano trochu víc.",
+            "Podle mne je to přiléhavé dost."
           ]
         }
       }
@@ -2744,10 +2744,10 @@
         "trg": {
           "correct": [
             "Neil by byl určitě raději za volantem, než aby se jen díval.",
-            " On bude na tom závodě také!"
+            "On bude na tom závodě také!"
           ],
           "incorrect": [
-            " Neil by byl určitě raději za volantem, než aby se jen díval.",
+            "Neil by byl určitě raději za volantem, než aby se jen díval.",
             "On bude na té schůzi také!"
           ]
         }
@@ -2785,10 +2785,10 @@
         "trg": {
           "correct": [
             "Kdo se o ni ale postará v tak zuboženém stavu?",
-            " Jestli se jí někdo může ujmout, jsi to ty."
+            "Jestli se jí někdo může ujmout, jsi to ty."
           ],
           "incorrect": [
-            " Kdo se o ni ale postará v tak zuboženém stavu?",
+            "Kdo se o ni ale postará v tak zuboženém stavu?",
             "Jestli se jí někdo může postavit, jsi to ty."
           ]
         }
@@ -2871,7 +2871,7 @@
           ],
           "incorrect": [
             " Potřebuješ na ten zápas něco, synku?",
-            "Jako třeba netopýr ?"
+            "Jako třeba netopýr?"
           ]
         }
       }
@@ -2917,6 +2917,171 @@
       }
     ]
   }
+ ,
+ "102": {
+    "inspired by": [
+      ""
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "What music genre is this, jazz?",
+			"No, that is rock."
+        ],
+        "trg": {
+          "correct": [
+            "TODO",
+            "Ne, je to rock."
+          ],
+          "incorrect": [
+            "TODO",
+            "Ne, je to kámen."
+          ]
+        }
+      },
+      {
+        "src": [
+			"Look, I found a gem here in the dirt!",
+			"No, that is rock."
+        ],
+        "trg": {
+          "correct": [
+            "TODO",
+            "Ne, je to kámen"
+          ],
+          "incorrect": [
+            "TODO",
+            "Ne, je to rock."
+          ]
+        }
+      }
+    ]
+  },
+  
+ "102": {
+    "inspired by": [
+      ""
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "We need to boil the pasta in something",
+			"Do you have some pot?"
+        ],
+        "trg": {
+          "correct": [
+            "V něčem ty těstoviny musíme uvařit.",
+            "Máš nějaký hrnec?"
+          ],
+          "incorrect": [
+            "Teď se fakt potřebuju zhulit.",
+            "Máš nějakou trávu?"
+          ]
+        }
+      },
+      {
+        "src": [
+			"I really need to get high right now.",
+			"Do you have some pot?"
+        ],
+        "trg": {
+          "correct": [
+            "Teď se fakt potřebuju zhulit.",
+            "Máš nějakou trávu?"
+          ],
+          "incorrect": [
+            "V něčem ty těstoviny musíme uvařit.",
+            "Máš nějaký hrnec?"
+          ]
+        }
+      }
+    ]
+  },
+  
+   "103": {
+    "inspired by": [
+      ""
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "Changes are overated, and I believe this particular one is for the worse.",
+			"No, I need the change."
+        ],
+        "trg": {
+          "correct": [
+            "*",
+            "Ne, tu změnu potřebuji."
+          ],
+          "incorrect": [
+            "*",
+            "Ne, ty drobné potřebuji."
+          ]
+        }
+      },
+      {
+        "src": [
+			"Do you have any change to spare, sir?",
+			"No, I need the change."
+        ],
+        "trg": {
+          "correct": [
+            "*",
+            "Ne, ty drobné potřebuji."
+          ],
+          "incorrect": [
+            "*",
+            "Ne, tu změnu potřebuji."
+          ]
+        }
+      }
+    ]
+  },
+     "104": {
+    "inspired by": [
+      ""
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "We need to pick the metal to write an essay about, you have iron, Tom has gold, what should I choose?",
+			"Take the lead then!"
+        ],
+        "trg": {
+          "correct": [
+            "Musíme si vybrat kov, o kterém budeme psát esej, ty máš železo, Tomáš má zlato, co si mám vybrat já?",
+            "Tak si vezmi olovo!"
+          ],
+          "incorrect": [
+            "Nemyslím si, že to je správný směr, možná by nás neměl vést Tomáš.",
+            "Tak veď ty!"
+          ]
+        }
+      },
+      {
+        "src": [
+			"I do not believe this is the right direction, maybe Tom shloud not lead us.",
+			"Take the lead then!"
+        ],
+        "trg": {
+          "correct": [
+            "Nemyslím si, že to je správný směr, možná by nás neměl vést Tomáš.",
+            "Tak veď ty!"
+          ],
+          "incorrect": [
+            "Musíme si vybrat kov, o kterém budeme psát esej, ty máš železo, Tomáš má zlato, co si mám vybrat já?",
+            "Tak si vezmi olovo!"
+          ]
+        }
+      }
+    ]
+  }
+  
+  
 }
 
 
