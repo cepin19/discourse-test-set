@@ -3079,7 +3079,48 @@
         }
       }
     ]
+  },
+ "105": {
+    "inspired by": [
+      ""
+    ],
+    "type": "disambig",
+    "examples": [
+      {
+        "src": [
+          "He crawled into that cannon himself and ask me to do it.",
+			"Yes, but I still don't think you should fire him."
+        ],
+        "trg": {
+          "correct": [
+            "TODO",
+            "Ano, ale stejně si nemyslím, že bys ho měl vystřelit."
+          ],
+          "incorrect": [
+            "TODO",
+            "Ano, ale stejně si nemyslím, že bys ho měl vyhodit."
+          ]
+        }
+      },
+      {
+        "src": [
+			"He is lazy and I suspect he is stealing stuff from work.",
+			"Yes, but I still don't think you should fire him."
+        ],
+        "trg": {
+          "correct": [
+            "TODO.",
+            "Ano, ale stejně si nemyslím, že bys ho měl vyhodit."
+          ],
+          "incorrect": [
+            "TODO",
+            "Ano, ale stejně si nemyslím, že bys ho měl vystřelit."
+          ]
+        }
+      }
+    ]
   }
+  
   
   
 }
